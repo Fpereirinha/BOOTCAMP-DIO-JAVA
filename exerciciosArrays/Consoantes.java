@@ -1,7 +1,5 @@
 package exerciciosArrays;
-
 import java.util.Scanner;
-
 public class Consoantes {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -39,7 +37,5 @@ public class Consoantes {
                 System.out.print(vogal + " ");
             }
         }
-
-
     }
 }
